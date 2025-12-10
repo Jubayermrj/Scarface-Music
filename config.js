@@ -1,7 +1,7 @@
 
 
 module.exports = {
-  TOKEN: "",
+  TOKEN: "MTQ0ODEwMzQxODM5NTYyNzU3Mg.Gq12vd.B90GciGoLoVRCjj9ga3M6uOr-mXZnQcRomh5jw",
   language: "en",
   ownerID: ["1004206704994566164", ""], 
   mongodbUri : "mongodb+srv://mdjubayerislamofficial_db_user:<tTnw8OvhA9X2xzlb>@groot.wbzjppv.mongodb.net/?appName=Groot",
